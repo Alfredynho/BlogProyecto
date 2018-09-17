@@ -1,0 +1,1 @@
+Proyecto Blog Creado con las herramientas de Python y Django
